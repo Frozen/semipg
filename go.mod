@@ -1,4 +1,4 @@
-module semipg
+module github.com/frozen/semipg
 
 go 1.19
 
